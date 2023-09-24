@@ -5,7 +5,6 @@
 ✓ Built Using HTML5, CSS3 and JavaScript <br />
 ✓ Completely Responsive <br />
 ✓ Deployed using render
-
 <br/>
 
 ### LICENSE
